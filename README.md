@@ -5,7 +5,6 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
-  font-size:5ch
 ">
   AI Resume Analyzer
 </h1>
